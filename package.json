@@ -4,6 +4,7 @@
   "description": "tarea node",
   "main": "index.js",
   "scripts": {
+    "ejercicion2": "node ejercicion2.js",
     "saludo": "node saludo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
