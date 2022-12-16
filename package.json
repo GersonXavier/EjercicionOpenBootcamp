@@ -4,6 +4,7 @@
   "description": "tarea node",
   "main": "index.js",
   "scripts": {
+    "ejercicio4": "node ejercicio4.js",
     "ejercicio3": "node ejercicio3.js",
     "ejercicion2": "node ejercicion2.js",
     "saludo": "node saludo.js",
